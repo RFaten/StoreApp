@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the sale offer drop-down Spinner -->
+    <string-array name="array_sale_options">
+        <item>@string/no_sale</item>
+        <item>@string/has_sale</item>
+    </string-array>
+</resources>
